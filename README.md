@@ -4,6 +4,10 @@
 
 Welcome to the official website repository for TECXONE Business Solution! 🚀 Our website showcases the innovative business model and services we provide, including the unique 3D building model for TECXONE Software Solution.
 
+<div>
+  <img src="assets/img/TECXONE-Business-Solution-.webp" alt="TECXONE Business Solution" style="border-radius: 10px; margin: 10px;">
+</div>
+
 ## 📄 Table of Contents
 
 - [Introduction](#introduction)
